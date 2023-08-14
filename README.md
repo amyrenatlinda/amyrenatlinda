@@ -1,16 +1,15 @@
-### Hi there 👋
+### olá pessoa linda 🍒                                                                                                                                                                                       
 
-<!--
-**amyrenatlinda/amyrenatlinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Amy Renata
+- Estou estudando na [Alura](https://www.alura.com.br);
+- Sou linda;
+  
+- ### para entrar em contato comigo 🤙
+- 
+  amylee.vieira@escola.pr.gov.pr
+  
+  @amyrenat;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/uL020lXCRgwAAAAM/bill-cipher-glitch.gif)
+ 
